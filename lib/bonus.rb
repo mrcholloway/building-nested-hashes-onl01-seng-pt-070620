@@ -23,4 +23,5 @@ def bonus
 
     epic_tragedy[:Romeo][:hero][:status] = "dead"
     epic_tragedy[:Juliette][:heroine][:status] = "dead"
+    bonus = epic_tragedy
 end
